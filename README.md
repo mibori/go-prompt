@@ -1,3 +1,7 @@
+# ATTENTION
+
+Please use the [original library](https://github.com/c-bata/go-prompt). This fork only for personal usage.
+
 # go-prompt
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/c-bata/go-prompt)](https://goreportcard.com/report/github.com/c-bata/go-prompt)
